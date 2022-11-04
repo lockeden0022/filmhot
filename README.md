@@ -1,6 +1,7 @@
 # Filmhot
 
 AdFree Movie / Anime Watching Website
+Edited
 
 <p align="center">
   <img alt="Stars" src="https://badgen.net/github/stars/napthedev/filmhot">
